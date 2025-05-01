@@ -4368,3 +4368,15 @@
 5/1/2025 | 4:26:18 PM | INFO | Trying to check user miner status... 
 5/1/2025 | 4:26:19 PM | INFO | Last mining time: 4/30/2025, 4:26:45 PM
 5/1/2025 | 4:26:19 PM | WARN | Mining already started, next mining time is: 5/1/2025, 4:26:45 PM
+5/1/2025 | 8:21:12 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/1/2025 | 8:21:12 PM | INFO | Start process for wallet 0xd70C0c124d75A1bF9D283E4FDc62538FBA1399E2 
+5/1/2025 | 8:21:13 PM | INFO | Trying To Login for wallet: 0xd70C0c124d75A1bF9D283E4FDc62538FBA1399E2 
+5/1/2025 | 8:21:14 PM | INFO | Login successful... 
+5/1/2025 | 8:21:14 PM | INFO | Trying to check user info... 
+5/1/2025 | 8:21:14 PM | INFO | User ID: 99185092 | Twitter: @wsairaa | Total Points: 1656000 
+5/1/2025 | 8:21:14 PM | INFO | Trying to check user miner status... 
+5/1/2025 | 8:21:15 PM | INFO | Last mining time: 4/30/2025, 4:26:45 PM
+5/1/2025 | 8:21:15 PM | INFO | Trying to start Mining for wallet: 0xd70C0c124d75A1bF9D283E4FDc62538FBA1399E2 
+5/1/2025 | 8:21:16 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/1/2025 | 8:21:16 PM | INFO | Trying to activate mining on-chain for wallet: 0xd70C0c124d75A1bF9D283E4FDc62538FBA1399E2 
+5/1/2025 | 8:21:22 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xa30263a64a4bc50c0910149b122403c8b4fbd91f3cb56646c4260e0fefd8e147 
