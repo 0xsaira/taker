@@ -5070,3 +5070,15 @@
 5/13/2025 | 8:23:58 PM | INFO | Trying to activate mining on-chain for wallet: 0xd70C0c124d75A1bF9D283E4FDc62538FBA1399E2 
 5/13/2025 | 8:23:59 PM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
 5/13/2025 | 8:23:59 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/14/2025 | 1:45:43 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/14/2025 | 1:45:44 AM | INFO | Start process for wallet 0xd70C0c124d75A1bF9D283E4FDc62538FBA1399E2 
+5/14/2025 | 1:45:44 AM | INFO | Trying To Login for wallet: 0xd70C0c124d75A1bF9D283E4FDc62538FBA1399E2 
+5/14/2025 | 1:45:45 AM | INFO | Login successful... 
+5/14/2025 | 1:45:45 AM | INFO | Trying to check user info... 
+5/14/2025 | 1:45:46 AM | INFO | User ID: 99185092 | Twitter: @wsairaa | Total Points: 1920000 
+5/14/2025 | 1:45:46 AM | INFO | Trying to check user miner status... 
+5/14/2025 | 1:45:52 AM | INFO | Last mining time: 5/12/2025, 8:24:09 PM
+5/14/2025 | 1:45:52 AM | INFO | Trying to start Mining for wallet: 0xd70C0c124d75A1bF9D283E4FDc62538FBA1399E2 
+5/14/2025 | 1:45:59 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/14/2025 | 1:45:59 AM | INFO | Trying to activate mining on-chain for wallet: 0xd70C0c124d75A1bF9D283E4FDc62538FBA1399E2 
+5/14/2025 | 1:46:29 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x20ad68b6482b1d50ba97cf728fccbfbc58a41d57d213274d4aa983577fbfcafa 
