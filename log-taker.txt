@@ -5546,3 +5546,12 @@
 5/21/2025 | 8:23:19 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
 5/21/2025 | 8:23:19 PM | INFO | Trying to activate mining on-chain for wallet: 0xd70C0c124d75A1bF9D283E4FDc62538FBA1399E2 
 5/21/2025 | 8:23:29 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x2e34717de011cae83f622440264596c1ec5817639925340f62808e743771b9c1 
+5/22/2025 | 1:46:23 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/22/2025 | 1:46:24 AM | INFO | Start process for wallet 0xd70C0c124d75A1bF9D283E4FDc62538FBA1399E2 
+5/22/2025 | 1:46:24 AM | INFO | Trying To Login for wallet: 0xd70C0c124d75A1bF9D283E4FDc62538FBA1399E2 
+5/22/2025 | 1:46:25 AM | INFO | Login successful... 
+5/22/2025 | 1:46:25 AM | INFO | Trying to check user info... 
+5/22/2025 | 1:46:26 AM | INFO | User ID: 99185092 | Twitter: @wsairaa | Total Points: 2112000 
+5/22/2025 | 1:46:26 AM | INFO | Trying to check user miner status... 
+5/22/2025 | 1:46:26 AM | INFO | Last mining time: 5/21/2025, 8:23:24 PM
+5/22/2025 | 1:46:26 AM | WARN | Mining already started, next mining time is: 5/22/2025, 8:23:24 PM
